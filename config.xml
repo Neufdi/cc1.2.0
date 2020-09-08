@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<widget xmlns   = "http://www.w3.org/ns/widgets"
+    xmlns:gap   = "http://phonegap.com/ns/1.0"
+    id          = "com.neufdi.cookieclick"
+    versionCode = "10"
+    version     = "1.2.0" >
+
+<!-- versionCode is optional and Android only -->
+
+  <name>CookieClick</name>
+
+  <description>
+    Added rebirths and Many MANY bug FIXES!!
+  </description>
+
+  <author href="https://build.phonegap.com" email="support@phonegap.com">
+      Neufdi
+  </author>
+
+  <icon src="icon.png" />
+
+</widget>
